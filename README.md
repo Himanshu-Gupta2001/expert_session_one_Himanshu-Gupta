@@ -2,10 +2,9 @@
    
 ## It covers the following points:
 
-    * Performing memory efficient searching with Global Secondary Index.
+    *Performing memory efficient searching with Global Secondary Index.
     
-    * Re Structioring of data.
-    
+    *Re Structioring of data.  
 
  ## To run the code:
  
