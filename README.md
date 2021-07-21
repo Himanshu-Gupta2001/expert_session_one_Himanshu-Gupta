@@ -1,7 +1,7 @@
  # Data Analysis
    
 ## It covers the following points:
-
+ 
     * Performing memory efficient searching with Global Secondary Index.
     
     * Re Structioring of data.  
