@@ -8,7 +8,7 @@
 
  ## To run the code:
  
-    1  Clone the github repository in your computer. git clone https://github.com/Himanshu-Gupta2001/expert_session_one_Himanshu-Gupta.git
+    1. Clone the github repository in your computer. git clone https://github.com/Himanshu-Gupta2001/expert_session_one_Himanshu-Gupta.git
     
     2. Run dataPreperation.ipynb file which will create json file in dataStore folder.
     
