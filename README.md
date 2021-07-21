@@ -1,4 +1,6 @@
- # Data Analysis
+ # Data Analysis on customer's purchase records visiting the mall.
+
+#This is an example code implementation for, "How to prepare database for large scale usage."
    
 ## It covers the following points:
  
