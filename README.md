@@ -3,6 +3,8 @@
 #This is an example code implementation for, "How to prepare database for large scale usage."
    
 ## It covers the following points:
+
+* Merging data from multiple data sources.
  
 * Performing memory efficient searching with Global Secondary Index
     
@@ -14,5 +16,8 @@
     
     2. Run dataPreperation.ipynb file which will create json file in dataStore folder.
     
-    3. That's it.
+    3. Run dataBaseSearch.ipynb file to search across the newly created data store.
+
+    
+    4. That's it.
 
